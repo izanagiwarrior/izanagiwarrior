@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋 -->
 
 <h1 align="center">Hi 👋, I'm M. Faiz Triputra</h1>
 <h3 align="center">A Human</h3>
