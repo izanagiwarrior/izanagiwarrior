@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **DigiKnow at Telkom Indonesia**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning  **Go** & **Lumen**
 
 - 👨‍💻 All of my projects are available at [https://github.com/izanagiwarrior](https://github.com/izanagiwarrior)
 
-- 💬 Ask me about **Python or PHP**
+- 💬 Ask me about **Python or PHP** ( I know little about **Java**, **Go**, **C++**, **SQL Queries**, and **Deployment into Shared Hosting**)
 
 - 📫 How to reach me **m.faiztpaduhai@gmail.com**
 
