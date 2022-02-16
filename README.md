@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Go & React**
 
-- 👯 I’m looking to collaborate on [Ximi Store](https://github.com/izanagiwarrior/Simple-Catalog-Laravel-Website)
+- 👯 I’m looking to collaborate on [Boisu](https://github.com/Boisu/Frontend)
 
-- 🤝 I’m looking for help with [Boisu](https://github.com/Boisu/Frontend)
+- 🤝 I’m looking for help with [Ximi Store](https://github.com/izanagiwarrior/Simple-Catalog-Laravel-Website)
 
 - 👨‍💻 All of my projects are available at my [Github](https://github.com/izanagiwarrior)
 
