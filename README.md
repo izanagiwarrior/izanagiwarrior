@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [Here](https://medium.com/@m.faiztpaduhai)
 
-- 💬 Ask me about **Python, PHP, Java, Go, C++, SQL Queries, and Deployment into Shared Hosting**
+- 💬 Ask me about **Python** & **PHP** ( I know few about **Java**, **Go**, **C++**, **SQL Queries**, **Deployment into Shared Hosting** , other things that you can see at my **Languages and Tools**)
 
 - 📫 How to reach me **m.faiztpaduhai@gmail.com**
 
