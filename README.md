@@ -11,15 +11,15 @@
 
 - 🤝 I’m looking for help with [Boisu](https://github.com/Boisu/Frontend)
 
-- 👨‍💻 All of my projects are available at [https://github.com/izanagiwarrior](https://github.com/izanagiwarrior)
+- 👨‍💻 All of my projects are available at my [Github](https://github.com/izanagiwarrior)
 
-- 📝 I regularly write articles on [https://mfaiztriputra.id/](https://mfaiztriputra.id/)
+- 📝 I regularly write articles on [Here](https://medium.com/@m.faiztpaduhai)
 
 - 💬 Ask me about **Python, PHP, Java, Go, C++, SQL Queries, and Deployment into Shared Hosting**
 
 - 📫 How to reach me **m.faiztpaduhai@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/mfaiztriputra/](linkedin.com/in/mfaiztriputra/)
+- 📄 Know about my experiences at my [LinkedIn](linkedin.com/in/mfaiztriputra/)
 
 - ⚡ Fun fact **I am proud to be weebs !!**
 
