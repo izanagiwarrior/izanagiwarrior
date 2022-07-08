@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm M. Faiz Triputra</h1>
-<h3 align="center">Back End Developer at Telkom Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izanagiwarrior&label=Profile%20views&color=0e75b6&style=flat" alt="izanagiwarrior" /> </p>
-
-- 🔭 I’m currently working on [DigiKnow](digiknow.id)
 
 - 🌱 I’m currently learning **Go & React**
 
